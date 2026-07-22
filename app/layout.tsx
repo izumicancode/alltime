@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   title: 'Alltime — a calmer social space',
   description: 'Alltime is a thoughtful anonymous social app for short reflections, honest stories, and everyday moments.',
   metadataBase: new URL('https://alltime.app'),
+  icons: {
+    icon: '/favicon.svg',
+  },
   openGraph: {
     title: 'Alltime — a calmer social space',
     description: 'Alltime is a thoughtful anonymous social app for short reflections, honest stories, and everyday moments.',
