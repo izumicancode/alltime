@@ -42,4 +42,4 @@ Alltime is a minimal, modern social app built with Next.js and Supabase. It is d
 
 ## Notes
 
-This project is currently being shaped as a clean, minimal social experience. The UI is intentionally simple, and the app is ready to be connected to your own Supabase project.
+This project is currently being shaped and is far from complete it will be a clean, minimal social experience. The UI is intentionally simple.
